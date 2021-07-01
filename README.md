@@ -1,6 +1,5 @@
-# Project_for_Endava
-This my project like Youtube;
+Hello, my names is Vadim Iuzic. This my project like YouTube. To build this project I used:
 Figma - project;
-svg sprite-icons;
-swiperjs-js;
-normalize-css;
+SVG sprite - icons;
+https://swiperjs.com/ - javascript;
+normalize - CSS;
